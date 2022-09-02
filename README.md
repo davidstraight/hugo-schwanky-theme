@@ -1,1 +1,1 @@
-Schwanky Theme
+Hugo Schwanky Theme
